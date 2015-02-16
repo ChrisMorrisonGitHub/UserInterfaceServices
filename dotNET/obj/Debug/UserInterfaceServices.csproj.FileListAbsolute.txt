@@ -1,0 +1,10 @@
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\WebAddressBox.baml
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\WebAddressBox.g.cs
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices_MarkupCompile.cache
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices.g.resources
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices.Properties.Resources.resources
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices.csproj.GenerateResource.Cache
+C:\Users\Public\Projects\UserInterfaceServices\bin\Debug\UserInterfaceServices.dll
+C:\Users\Public\Projects\UserInterfaceServices\bin\Debug\UserInterfaceServices.pdb
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices.dll
+C:\Users\Public\Projects\UserInterfaceServices\obj\Debug\UserInterfaceServices.pdb

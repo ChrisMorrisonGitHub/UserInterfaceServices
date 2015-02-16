@@ -1,0 +1,12 @@
+C:\Users\Public\Projects\UserInterfaceServices\bin\x86\Debug\UserInterfaceServices.dll
+C:\Users\Public\Projects\UserInterfaceServices\bin\x86\Debug\UserInterfaceServices.pdb
+C:\Users\Public\Projects\UserInterfaceServices\bin\x86\Debug\UserInterfaceServices.dll.CodeAnalysisLog.xml
+C:\Users\Public\Projects\UserInterfaceServices\bin\x86\Debug\UserInterfaceServices.dll.lastcodeanalysissucceeded
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\WebAddressBox.baml
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\WebAddressBox.g.cs
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices_MarkupCompile.cache
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices.g.resources
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices.Properties.Resources.resources
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices.csproj.GenerateResource.Cache
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices.dll
+C:\Users\Public\Projects\UserInterfaceServices\obj\x86\Debug\UserInterfaceServices.pdb

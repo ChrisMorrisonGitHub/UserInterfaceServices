@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="UserInterfaceServices.WebAddressBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"  d:DesignWidth="400" Height="23" Background="{DynamicResource {x:Static SystemColors.WindowBrushKey}}">
+    <Border Name="ControlBorder" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" BorderThickness="1" CornerRadius="4">
+    <Grid>
+        <Image Name="CertImage" RenderOptions.BitmapScalingMode="HighQuality" SnapsToDevicePixels="True" UseLayoutRounding="False" HorizontalAlignment="Left" Height="17" Margin="3,2,2,2" VerticalAlignment="Center" Width="17" Source="pack://application:,,,/WpfApplication1;component/Globe.ico" Stretch="Fill"/>
+        <Label Name="CertLabel" Content="Unknown" Height="23" Margin="23,0" VerticalAlignment="Center" VerticalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" Padding="0" ScrollViewer.CanContentScroll="True" FontSize="11" FontWeight="Bold" RenderTransformOrigin="-2.92,0.474" HorizontalAlignment="Left" SizeChanged="CertLabel_SizeChanged"/>
+        <TextBox Name="AddressTextBox" Height="23" Margin="81,0,24,0" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Padding="0,0,0,2" FontSize="12" BorderThickness="1,0" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" GotFocus="AddressTextBox_GotFocus" LostFocus="AddressTextBox_LostFocus" TextChanged="AddressTextBox_TextChanged" KeyDown="AddressTextBox_KeyDown"/>
+        <Image Name="BarButton" RenderOptions.BitmapScalingMode="HighQuality" SnapsToDevicePixels="True" UseLayoutRounding="False" HorizontalAlignment="Right" Height="17" Margin="2,2,3,2" VerticalAlignment="Center" Width="17" Source="pack://application:,,,/UserInterfaceServices;component/Resources/Go.png" MouseUp="BarButton_MouseUp" ScrollViewer.VerticalScrollBarVisibility="Disabled" Stretch="UniformToFill"/>
+    </Grid>
+    </Border>
+</UserControl>
